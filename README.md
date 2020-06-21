@@ -1,24 +1,21 @@
-# README
+<img src="https://user-images.githubusercontent.com/52301886/85221600-e47a5700-b3ef-11ea-9fb6-45565a836947.PNG">
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## 🌐 App URL
+### **https://todo-card-app.herokuapp.com/**
 
-Things you may want to cover:
 
-* Ruby version
+## 💬 Usage
+`$ git clone https://github.com/Keita0428m/ToDo-Card-App.git` <br>
+`$ cd ToDo-Card-App` <br>
+`$ bundle install` <br>
+`$ rails db:create` <br>
+`$ rails db:migrate` <br>
+`$ rails s `<br>
+`👉 http://localhost:3000 `
 
-* System dependencies
+## 📝 README
+このアプリの機能
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* ユーザ登録・更新機能
+* リスト作成・更新・削除機能
+* カード作成・更新・削除機能
